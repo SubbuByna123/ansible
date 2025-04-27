@@ -1,0 +1,10 @@
+[web]
+3.85.43.57
+
+[database]
+192.187.90.4
+
+
+[roboshop.chidre]
+  web
+  database
